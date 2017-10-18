@@ -1,7 +1,6 @@
 # Clases en Java
 
 ```java
-
 public class Asignatura {
     private String nombre;
     private int creditos;
@@ -32,7 +31,6 @@ public class Asignatura {
 ```
 
 ```java
-
 public class Asignatura {
     private String nombre;
     private int creditos;
